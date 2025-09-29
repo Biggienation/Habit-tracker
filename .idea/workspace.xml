@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c2a3301c-5cad-4add-bc87-c9f9b5a9b497" name="Changes" comment="Init commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-vue/habit-tracker/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-vue/habit-tracker/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-vue/habit-tracker/env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-vue/habit-tracker/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-vue/habit-tracker/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-vue/habit-tracker/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-vue/habit-tracker/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-vue/habit-tracker/public/habits.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-vue/habit-tracker/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-vue/habit-tracker/src/assets/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-vue/habit-tracker/src/assets/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-vue/habit-tracker/src/assets/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-vue/habit-tracker/src/components/HabitFetch.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-vue/habit-tracker/src/components/HeadNavBar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-vue/habit-tracker/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-vue/habit-tracker/src/components/TheWelcome.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-vue/habit-tracker/src/components/WelcomeItem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-vue/habit-tracker/src/components/icons/IconCommunity.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-vue/habit-tracker/src/components/icons/IconDocumentation.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-vue/habit-tracker/src/components/icons/IconEcosystem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-vue/habit-tracker/src/components/icons/IconSupport.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-vue/habit-tracker/src/components/icons/IconTooling.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-vue/habit-tracker/src/components/uppgift/ClickButton.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-vue/habit-tracker/src/components/uppgift/Greeting.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-vue/habit-tracker/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-vue/habit-tracker/src/router/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-vue/habit-tracker/src/stores/counter.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-vue/habit-tracker/src/views/AboutView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-vue/habit-tracker/src/views/HabitView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-vue/habit-tracker/src/views/HomeView.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-vue/habit-tracker/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-vue/habit-tracker/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-vue/habit-tracker/tsconfig.node.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend-vue/habit-tracker/vite.config.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Options API Component" />
+        <option value="package.json" />
+        <option value="Vue Composition API Component" />
+        <option value="Dockerfile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Biggienation"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Biggienation/Habit-tracker.git",
+    "accountId": "67e45158-f0f0-45a2-be1d-2975e38e1996"
+  }
+}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="32veMq50DapJL863GSkXUhC5m07" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Spring Boot.HabitTrackerApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\Alexander\\IdeaProjects\\Habit-tracker\\frontend\\habit-tracker\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;vue.recent.templates&quot;: [
+      &quot;Vue Options API Component&quot;,
+      &quot;Vue Composition API Component&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alexander\IdeaProjects\Habit-tracker\frontend\habit-tracker\public" />
+      <recent name="C:\Users\Alexander\IdeaProjects\Habit-tracker\frontend\habit-tracker\src" />
+      <recent name="C:\Users\Alexander\IdeaProjects\Habit-tracker\frontend\habit-tracker\src\components" />
+      <recent name="C:\Users\Alexander\IdeaProjects\Habit-tracker\backend" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="HabitTrackerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ACTIVE_PROFILES" value="dev" />
+      <module name="Habit-tracker" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="micro.java24.habittracker.HabitTrackerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26199.169" />
+        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-IU-252.26199.169" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2a3301c-5cad-4add-bc87-c9f9b5a9b497" name="Changes" comment="" />
+      <created>1758305431310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758305431310</updated>
+      <workItem from="1758305432540" duration="130000" />
+      <workItem from="1758305584007" duration="303000" />
+      <workItem from="1758362725383" duration="620000" />
+      <workItem from="1758363361216" duration="31658000" />
+      <workItem from="1758787371373" duration="345000" />
+      <workItem from="1758788373126" duration="32000" />
+      <workItem from="1759156429470" duration="789000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/backend-spring" />
+    </ignored-roots>
+    <MESSAGE value="Init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init commit" />
+  </component>
+</project>

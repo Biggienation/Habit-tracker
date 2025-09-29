@@ -1,0 +1,14 @@
+[
+  {
+    "id": "running",
+    "category": "Exercise",
+    "progress": 100,
+    "total": 500
+  },
+  {
+    "id": "Reading",
+    "category": "Learning",
+    "progress": 10,
+    "total": 100
+  }
+]
